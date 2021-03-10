@@ -298,3 +298,16 @@ CSS DE AREAS ESPECIFICAS
 .section-projects--filters li:first-child {
     border-left:0;
 }
+
+
+
+.section-projects--photos {
+    width:100vw;
+    max-width:1140px;
+    margin-top:20px;
+    display:flex;
+    flex-wrap:wrap; /*Usado para quebrar linha */
+}
+.section-projects--photo {
+    width:280px;
+}
